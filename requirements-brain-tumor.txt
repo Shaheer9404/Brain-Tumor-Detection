@@ -1,0 +1,7 @@
+# Brain Tumor Detection notebook - run: pip install -r requirements-brain-tumor.txt
+tensorflow>=2.4
+scikit-learn
+opencv-python-headless
+imutils
+numpy
+matplotlib
